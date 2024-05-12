@@ -21,6 +21,7 @@ const AdvertWidget = () => {
     width="100%"
     height="auto"
     alt="advert"
+     className="advert-image"
     // src="${API_BASE_URL}/assets/info4.jpeg"
     // style="border-radius: 0.75rem; margin: 0.75rem 0;"
 />

@@ -1,0 +1,18 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.user-image {
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+
+.advert-image{
+    border-radius: 0.75rem;
+    margin: 0.75rem 0;
+}
