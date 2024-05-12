@@ -21,8 +21,8 @@ const AdvertWidget = () => {
     width="100%"
     height="auto"
     alt="advert"
-    src="${API_BASE_URL}/assets/info4.jpeg"
-    style="border-radius: 0.75rem; margin: 0.75rem 0;"
+    // src="${API_BASE_URL}/assets/info4.jpeg"
+    // style="border-radius: 0.75rem; margin: 0.75rem 0;"
 />
       <FlexBetween>
         <Typography color={main}>MikaCosmetics</Typography>
